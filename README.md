@@ -39,7 +39,6 @@ Created a revenue column (Quantity × UnitPrice)
 | **Recency**   | Days since last purchase   |
 | **Frequency** | Number of unique purchases |
 | **Monetary**  | Total revenue per customer |
-Customers were scored from 1 (low) to 5 (high) for each metric using quintiles.
 
 ### Customer Segmentation Logic
 Customers were grouped into business-friendly segments:
